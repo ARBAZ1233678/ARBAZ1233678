@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F;LeetCode+Rating%3A+1506+%F0%9F%8F%86)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9)
 
 </div>
 
@@ -14,7 +14,7 @@
 const mohammed = {
     role: "Software Engineer",
     location: "India 🇮🇳",
-    education: "B.E. Computer Science",
+    education: "B.E. Information Technology",
     currentFocus: ["System Design", "Microservices", "AI/ML"],
     askMeAbout: ["FastAPI", "React", "Docker", "AI/ML", "System Design"],
     technologies: {
@@ -26,7 +26,7 @@ const mohammed = {
         aiml: ["TensorFlow", "PyTorch", "OpenCV", "BERT", "YOLOv8"],
         devops: ["Docker", "Prometheus", "Grafana", "OpenTelemetry"]
     },
-    hobbies: ["🧩 Competitive Programming", "🎮 Chess", "📚 Tech Blogs"]
+    hobbies: ["🧩 Competitive Programming", "📚 Surfing Tech Blogs"]
 };
 ```
 
@@ -74,22 +74,6 @@ const mohammed = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARBAZ1233678&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARBAZ1233678&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARBAZ1233678&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARBAZ1233678&theme=react-dark&hide_border=true" />
-</div>
-
----
 
 ## 🏆 Featured Projects
 
@@ -155,7 +139,6 @@ Features:
 | Metric | Value |
 |--------|-------|
 | **🎯 Problems Solved** | 444+ |
-| **🏆 Contest Rating** | 1506 (Peak: 1557) |
 | **🥇 Global Rank** | 5376 |
 | **⚡ Max Streak** | 181 days |
 | **📅 Active Days** | 248+ |
@@ -165,12 +148,6 @@ Features:
 
 </div>
 
-### 📈 Problem-Solving Expertise
-- **Arrays & Hash Maps**: 123 problems
-- **String Algorithms**: 48 problems  
-- **Dynamic Programming**: 35 problems
-- **Graph Algorithms (DFS/BFS)**: 50+ problems
-- **Trees & Recursion**: 42 problems
 
 ---
 
@@ -224,58 +201,10 @@ const nextGoals = [
 - 🤖 **AI/ML Projects**: BERT Q&A system and meeting summarization tools
 - 🏗️ **System Architecture**: Designing scalable, cloud-native applications
 
-### 💡 Open Source Contributions
-```bash
-# Total Repositories: 15+
-# Languages Used: 8+
-# Total Commits: 500+
-# Issues Resolved: 25+
-# Pull Requests: 50+
-```
+
 
 ---
 
-## 🎯 Goals & Vision
-
-### 🚀 Short-term Goals (2024-2025)
-- [ ] Contribute to major open-source projects
-- [ ] Complete AWS Solutions Architect certification
-- [ ] Build and deploy 3 production-ready SaaS applications
-- [ ] Achieve LeetCode rating above 1600
-- [ ] Mentor junior developers in competitive programming
-
-### 🌟 Long-term Vision (2025+)
-- [ ] Lead technical teams in building scalable systems
-- [ ] Contribute to AI/ML research and development
-- [ ] Start a tech blog/YouTube channel for knowledge sharing
-- [ ] Build a successful tech startup
-- [ ] Become a recognized expert in distributed systems
-
----
-
-## 📊 Weekly Development Breakdown
-
-```text
-Python          ████████████████████░   85%
-Java            ███████████████░░░░░░   70%
-JavaScript      ██████████████░░░░░░░   65%
-C++             ████████████░░░░░░░░░   55%
-TypeScript      ██████████░░░░░░░░░░░   45%
-Go              ████████░░░░░░░░░░░░░   35%
-```
-
----
-
-## 🎮 Fun Facts
-
-- 🧩 Solved 444+ coding problems and still counting!
-- 🎯 Can debug code faster than most people can write it
-- ☕ Coffee-to-code ratio: 3:1 (optimal performance)
-- 🌙 Night owl developer - best code happens after midnight
-- 🎲 Believes in "Code, Test, Debug, Repeat" as life philosophy
-- 🚀 Dreams in algorithms and thinks in data structures
-
----
 
 ## 💬 Quote of the Day
 
@@ -291,10 +220,6 @@ Go              ████████░░░░░░░░░░░░░ 
 
 <div align="center">
 
-### ⭐ Show some love by starring my repositories! ⭐
 
-![Visitor Count](https://profile-counter.glitch.me/ARBAZ1233678/count.svg)
-
-**Made with ❤️ and lots of ☕**
 
 </div>
