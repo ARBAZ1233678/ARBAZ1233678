@@ -134,7 +134,7 @@ Features:
 <div align="center">
 
 ### 🏅 LeetCode Performance
-[![LeetCode](https://img.shields.io/badge/LeetCode-1506_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://codolio.com/profile/I9rRc5pB/card)
+[![LeetCode](https://img.shields.io/badge/Coding-Ninjas-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://codolio.com/profile/I9rRc5pB/card)
 
 | Metric | Value |
 |--------|-------|
